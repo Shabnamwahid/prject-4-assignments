@@ -1,4 +1,4 @@
-# 🚀 Python Practice Problems
+# 🚀 Python 00_intro_python
 
 ## 📝 **1: Problem Statement 01_add_two_numbers.md** 🔢
 
